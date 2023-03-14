@@ -1,0 +1,9 @@
+[
+    {"id" :1, "name": "Apple", "price" : 5, "image" : "apple.jpg", "description": "Great Frish Apple 50g"},
+    {"id" :2, "name": "Orange", "price" : 3, "image" : "orange.jpg", "description": "Great Frish Orange 50g"},
+    {"id" :3, "name": "Mango", "price" : 4, "image" : "mango.jpg", "description": "Great Sweet Mango 500g"},
+    {"id" :4, "name": "Watermelon ", "price" : 20, "image" : "watermelon.jpg", "description": "Great Big Watermelon 100g"},
+    {"id" :5, "name": "Blueberry", "price" : 10, "image" : "blueberry.jpg", "description": "Great Frish and Sweet Blueberry 50g"},
+    {"id" :6, "name": "White cabbage", "price" : 100, "image" : "white_cabbage.jpg", "description": "Fuck the Cabbage !!!"}
+
+  ]
